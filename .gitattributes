@@ -1,10 +1,2 @@
-*.md linguist-detectable=false
-*.pdf linguist-detectable=false
-*.png linguist-detectable=false
-*.jpg linguist-detectable=false
-*.jpeg linguist-detectable=false
-assets/** linguist-detectable=false
-docs/** linguist-detectable=false
-
 project_overview.m linguist-detectable=true
 project_overview.m linguist-language=MATLAB
