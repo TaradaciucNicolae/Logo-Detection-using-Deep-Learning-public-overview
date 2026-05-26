@@ -1,4 +1,4 @@
-# Logo Identification System — Public Overview
+# Logo Identification System - Public Overview
 
 Public technical overview of a MATLAB-based logo identification system that uses deep learning to recognize logos from uploaded images or a live webcam feed.
 
