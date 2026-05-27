@@ -9,15 +9,15 @@ Public technical overview of a MATLAB-based logo identification system that uses
 ## Demo Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67198390-a8bd-475f-a96e-392f96392e15" width="720" alt="Logo identification GUI screenshot 1" />
+  <img src="./assets/screenshots/1.png" width="520" alt="Logo identification GUI screenshot 1" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e7a4840-013b-4a4e-b02d-ca538e9e5c10" width="720" alt="Logo identification GUI screenshot 2" />
+  <img src="./assets/screenshots/2.png" width="520" alt="Logo identification GUI screenshot 2" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2b258911-a8b8-41a6-b645-f53631fe3758" width="720" alt="Logo recognition result screenshot" />
+  <img src="./assets/screenshots/3.png" width="520" alt="Logo recognition result screenshot" />
 </p>
 
 ---
